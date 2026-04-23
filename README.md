@@ -1,4 +1,4 @@
-# Lyftr Backend Assignment
+# Webhook Processing & Messaging Analytics API
 
 This project is a containerized FastAPI service for ingesting WhatsApp-like
 messages with idempotency, HMAC verification, and basic analytics.
